@@ -1,0 +1,2 @@
+image: rockey07952/vat:<+pipeline.sequenceId>
+replicas: 1
